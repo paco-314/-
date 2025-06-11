@@ -3,3 +3,6 @@ fastai==2.8.2
 torch==2.7.0
 torchvision==0.22.0
 pillow==10.4.0 
+seaborn==0.13.2  # 换成你本地的版本，用 pip show seaborn 看
+pandas==2.1.0    # 其他依赖也可加上，比如 pandas、numpy 等
+streamlit==1.28.0
